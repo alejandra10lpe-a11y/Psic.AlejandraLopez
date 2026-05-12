@@ -1,5 +1,4 @@
 # Psic.AlejandraLopez
-Servicios de psicoterapia privada en linea
 
 <html lang="es">
 <head>
@@ -905,7 +904,7 @@ Servicios de psicoterapia privada en linea
           escucharte con mayor profundidad y caminar hacia tu bienestar.</p>
           <div class="servicio-divider"></div>
           <div class="servicio-precio">
-            <div class="precio-num">$35</div>
+            <div class="precio-num">$35 dólares</div>
             <div class="precio-label">por sesión</div>
           </div>
           <ul class="servicio-includes">
@@ -928,12 +927,12 @@ Servicios de psicoterapia privada en linea
           <p>Talleres grupales íntimos. A través de actividades creativas, expresarás emociones, conectarás contigo misma/o y encontrarás un espacio de calma y autoconocimiento.</p>
           <div class="servicio-divider"></div>
           <div class="servicio-precio">
-            <div class="precio-num">$25</div>
+            <div class="precio-num">$25 dólares</div>
             <div class="precio-label">por persona</div>
           </div>
           <ul class="servicio-includes">
             <li>Grupos de hasta 6 personas</li>
-            <li>Modalidad en línea</li>
+            <li>Modalidad en línea de 60 a 90 min </li>
             <li>No se necesita experiencia artística</li>
             <li>Materiales fáciles de conseguir</li>
   
